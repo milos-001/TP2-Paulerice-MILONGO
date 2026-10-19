@@ -8,3 +8,4 @@ $Destination = "\\NAS01\Backup"
 # Journalisation activee
 # Fin de sauvegarde
 # Compression des archives activee
+# Modification temporaire

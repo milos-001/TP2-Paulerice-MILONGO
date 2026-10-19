@@ -1,4 +1,4 @@
-$Destination = "D:\Backup"
+$Destination = "\\NAS01\Backup"
 # Journalisation activée
 # Fin de sauvegarde
 # Journalisation activee
